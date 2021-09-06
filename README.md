@@ -8,9 +8,9 @@ Credit risk poses a classification problem that’s inherently imbalanced due to
 
 Using historical data set of Loan size, Interest rate, Income, Total debt, Debt-to-Income Ratio, Total number of Accounts, Derogatory Marks to predict the high-risk loan vs. healthy loan.
 
-      ### Total Loan count: 77,536
-      ### Healthy Loan count: 75,036 
-      ### High-Risk Loan count: 2,500
+          Total Loan count: 77,536
+          * Healthy Loan count: 75,036 
+          * High-Risk Loan count: 2,500
 
 ### Prediction Process
 
